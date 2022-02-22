@@ -1,1 +1,1 @@
-./swsh_event_dumper <ip>
+./swsh_event_dumper \<ip\>
