@@ -24,5 +24,5 @@ jobs:
         name: swsh-event-dumper-${{ matrix.os }}
         path: |
           target/release/swsh_event_dumper.*
-          target/release/swsh_event_dumper.*
+          target/release/swsh_event_dumper
           !target/release/*.d
